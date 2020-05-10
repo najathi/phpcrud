@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.top-form {
+  margin: 2rem 1rem;
+}
+
+.mga1 {
+  margin: 1rem;
+}
+
+.mga2 {
+  margin: 2rem;
+}
+
+.mga3 {
+  margin: 3rem;
+}
+
+.mdt2 {
+  margin-top: 2rem;
+}
+
+.mdb1 {
+  margin-bottom: 1rem;
+}
+
+.sec-pass .remove {
+  visibility: hidden;
+}
+
+.sec-pass:last-child .remove {
+  visibility: visible;
+}

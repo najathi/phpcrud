@@ -1,0 +1,26 @@
+Create the tables in your databases
+
+exchange_order
+
+ex_id
+xo_date
+booking_ref
+ex_created_at
+ex_updated_at
+
+
+
+
+passenger
+
+passenger_id
+exch_order
+p_name
+ticket_no
+ticket_date
+tax_3
+tax_4
+total_tax
+depart_date
+pass_created_at
+pass_updated_at
